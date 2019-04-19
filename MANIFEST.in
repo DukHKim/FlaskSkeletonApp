@@ -1,0 +1,3 @@
+graft TestFlaskProject/templates
+graft TestFlaskProject/static
+include TestFlaskProject/schema.sql
