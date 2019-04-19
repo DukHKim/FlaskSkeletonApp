@@ -1,1 +1,1 @@
-from .TestFlaskProject import app
+from .FlaskSkeletonApp import app
